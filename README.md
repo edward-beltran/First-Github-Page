@@ -1,4 +1,4 @@
-![Image](https://media-exp1.licdn.com/dms/image/C5603AQH-mgbRE3qg5Q/profile-displayphoto-shrink_100_100/0/1652203608219?e=1657756800&v=beta&t=WlkvbG2vVbi67urQBzDbdeN8SR68aGNrZ7N_p-51CTI)
+![Image](https://media-exp1.licdn.com/dms/image/C5603AQH-mgbRE3qg5Q/profile-displayphoto-shrink_50_50/0/1652203608219?e=1657756800&v=beta&t=WlkvbG2vVbi67urQBzDbdeN8SR68aGNrZ7N_p-51CTI)
 
 ## Edward Beltran
 Please visit my [LinkedIn Account](www.linkedin.com/in/edward-beltran).
