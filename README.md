@@ -1,10 +1,9 @@
-![Image](https://media-exp1.licdn.com/dms/image/C5603AQH-mgbRE3qg5Q/profile-displayphoto-shrink_800_800/0/1652203608219?e=1657756800&v=beta&t=xhR7X9P2YjqvLLq22gY1shVRlenvnr-_0V-2iZIqXxA)
+![Image](https://media-exp1.licdn.com/dms/image/C5603AQH-mgbRE3qg5Q/profile-displayphoto-shrink_100_100/0/1652203608219?e=1657756800&v=beta&t=WlkvbG2vVbi67urQBzDbdeN8SR68aGNrZ7N_p-51CTI)
 
-## Welcome to GitHub Pages
+## Edward Beltran
+Please visit my [LinkedIn Account](www.linkedin.com/in/edward-beltran).
 
-You can use the [editor on GitHub](https://github.com/edward-beltran/First-Github-Page/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello everyone and welcome to my first Github Page. I will attempt to include a script.
 
 ### Markdown
 
