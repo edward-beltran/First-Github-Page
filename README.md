@@ -1,4 +1,4 @@
-![Image](https://media-exp1.licdn.com/dms/image/D5635AQGq8ijKq5cuDw/profile-framedphoto-shrink_200_200/0/1652203609283?e=1652382000&v=beta&t=IWCgpc4ZAlUncBOOLvmn5PjBxyhZVq1l9qW95IUrvzM)
+![Image](https://media-exp1.licdn.com/dms/image/C5603AQH-mgbRE3qg5Q/profile-displayphoto-shrink_800_800/0/1652203608219?e=1657756800&v=beta&t=xhR7X9P2YjqvLLq22gY1shVRlenvnr-_0V-2iZIqXxA)
 
 ## Welcome to GitHub Pages
 
